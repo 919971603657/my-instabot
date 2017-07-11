@@ -16,6 +16,8 @@
           <option value="insta1_bot.InstaBot" />
           <option value="json.json" />
           <option value="insta_bot.user_info" />
+          <option value="instabot1.get_own_video" />
+          <option value="wordcloud.WordCloud" />
         </list>
       </option>
     </inspection_tool>
